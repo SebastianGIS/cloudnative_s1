@@ -1,0 +1,9 @@
+com\clouddn\semana1\controller\InscripcionController.class
+com\clouddn\semana1\service\CursoService.class
+com\clouddn\semana1\model\Inscripcion.class
+com\clouddn\semana1\repository\CursoRepository.class
+com\clouddn\semana1\service\InscripcionService.class
+com\clouddn\semana1\model\Curso.class
+com\clouddn\semana1\controller\CursoController.class
+com\clouddn\semana1\Semana1Application.class
+com\clouddn\semana1\repository\InscripcionRepository.class
