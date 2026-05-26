@@ -3,7 +3,8 @@ FROM eclipse-temurin:21-jdk-alpine
 
 WORKDIR /app
 
-COPY target/*.jar app.jar
+COPY pom.xml .
+COPY src /app/src
 
 EXPOSE 8080
 
